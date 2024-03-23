@@ -8,5 +8,5 @@
 
 ### Get Involved
 
-* Join our Slack community by visiting: [https://commerce-schema.org/docs/community](https://commerce-schema.org/docs/community)
-* Attend our in-person and virtual [open-source eCommerce data hackathon](https://commerce-schema.org//docs/community/boulder-hackathon) on April 5th, 2024, in Boulder, Colorado.
+* Join our Slack community by visiting: [https://commerce-schema.org/docs/category/community](https://commerce-schema.org/docs/community/hackathons/boulder-hackathon/)
+* Attend our in-person and virtual [open-source eCommerce data hackathon](https://commerce-schema.org/docs/community/hackathons/boulder-hackathon/) on April 5th, 2024, in Boulder, Colorado.
